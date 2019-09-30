@@ -5,4 +5,4 @@ Vous allez pouvoir utiliser cette interface pour éditer, lire, modifier,  execu
 integrant à la fois du texte, des images et du code python executable.
 
 ## précédure
-open file et selectionner le notebook
+Selectionner le notebook ou la ressource indiquée
